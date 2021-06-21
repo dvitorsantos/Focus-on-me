@@ -1,0 +1,33 @@
+.navbar-container {
+  display: flex;
+  align-items: center;
+  box-shadow: 0 4px 4px 0 RGBA(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  height: 60px;
+}
+
+.navbar-container section {
+  display: flex;
+  align-items: center;
+  width: 50vw;
+  padding: 0 1rem 0 0;
+}
+
+.navbar-container section:last-child {
+  justify-content: flex-end;
+}
+
+.navbar-container section h1 {
+  cursor: pointer;
+}
+
+.navbar-container section img {
+  width: 49px;
+  height: 39px;
+  margin: 0 1rem 0 1rem;
+}
+.navbar-container section:last-child img {
+  width: 28px;
+  height: 28px;
+  margin: 0 0.5rem 0 1.5rem;
+}
