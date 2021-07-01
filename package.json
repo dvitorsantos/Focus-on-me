@@ -12,8 +12,7 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "use-sound": "^4.0.0",
-    "web-vitals": "^1.0.1",
-    "worker-timers": "^7.0.33"
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
