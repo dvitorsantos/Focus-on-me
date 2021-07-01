@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import useSound from "use-sound";
+import * as workerTimers from "worker-timers";
 
 import "./index.css";
 
@@ -98,15 +99,15 @@ function App() {
   useEffect(() => {
     document.title = `${
       clock.minutes < 10 ? "0" + clock.minutes : clock.minutes
-    }:${
-      clock.seconds < 10 ? "0" + clock.seconds : clock.seconds
-    } - ${selectedTask}`;
+    }:${clock.seconds < 10 ? "0" + clock.seconds : clock.seconds} - ${
+      selectedTask ? selectedTask : "Let's Focus!"
+    }`;
 
     store("tasks", tasks);
     store("selectedTask", selectedTask);
     if (start) {
-      const timerId = setInterval(() => startTimer(), 1000);
-      return () => clearInterval(timerId);
+      const timerId = workerTimers.setInterval(() => startTimer(), 1000);
+      return () => workerTimers.clearInterval(timerId);
     }
   });
 
