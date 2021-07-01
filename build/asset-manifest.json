@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9a74cac6.chunk.css",
+    "main.js": "./static/js/main.691307d3.chunk.js",
+    "main.js.map": "./static/js/main.691307d3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.771248a4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.771248a4.js.map",
+    "static/js/2.c76d0b74.chunk.js": "./static/js/2.c76d0b74.chunk.js",
+    "static/js/2.c76d0b74.chunk.js.map": "./static/js/2.c76d0b74.chunk.js.map",
+    "static/js/3.f7274dd1.chunk.js": "./static/js/3.f7274dd1.chunk.js",
+    "static/js/3.f7274dd1.chunk.js.map": "./static/js/3.f7274dd1.chunk.js.map",
+    "static/js/4.040a4a2a.chunk.js": "./static/js/4.040a4a2a.chunk.js",
+    "static/js/4.040a4a2a.chunk.js.map": "./static/js/4.040a4a2a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.9a74cac6.chunk.css.map": "./static/css/main.9a74cac6.chunk.css.map",
+    "static/js/2.c76d0b74.chunk.js.LICENSE.txt": "./static/js/2.c76d0b74.chunk.js.LICENSE.txt",
+    "static/js/3.f7274dd1.chunk.js.LICENSE.txt": "./static/js/3.f7274dd1.chunk.js.LICENSE.txt",
+    "static/media/add_circle_outline_black.929c4732.svg": "./static/media/add_circle_outline_black.929c4732.svg",
+    "static/media/alarm.8e835db2.mp3": "./static/media/alarm.8e835db2.mp3",
+    "static/media/brain-solid.83871b26.svg": "./static/media/brain-solid.83871b26.svg",
+    "static/media/check-circle-regular.e113d734.svg": "./static/media/check-circle-regular.e113d734.svg",
+    "static/media/check-solid.5dcf9568.svg": "./static/media/check-solid.5dcf9568.svg",
+    "static/media/click.497cffed.mp3": "./static/media/click.497cffed.mp3",
+    "static/media/clock-regular.6baa5320.svg": "./static/media/clock-regular.6baa5320.svg",
+    "static/media/ellipsis-v-solid.6cf67d90.svg": "./static/media/ellipsis-v-solid.6cf67d90.svg",
+    "static/media/globe-solid.440a2c1a.svg": "./static/media/globe-solid.440a2c1a.svg",
+    "static/media/more_time.1e5a3c4a.svg": "./static/media/more_time.1e5a3c4a.svg",
+    "static/media/paper-plane-solid.57094fe6.svg": "./static/media/paper-plane-solid.57094fe6.svg",
+    "static/media/replay.41e71c21.svg": "./static/media/replay.41e71c21.svg",
+    "static/media/times-circle-regular.0f761569.svg": "./static/media/times-circle-regular.0f761569.svg",
+    "static/media/trash-solid.8b6b7284.svg": "./static/media/trash-solid.8b6b7284.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.771248a4.js",
+    "static/js/2.c76d0b74.chunk.js",
+    "static/css/main.9a74cac6.chunk.css",
+    "static/js/main.691307d3.chunk.js"
+  ]
+}
