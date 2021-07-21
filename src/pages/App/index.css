@@ -288,3 +288,52 @@ ul {
 .task div span {
   font-size: 1.2rem;
 }
+
+@media only screen and (max-width: 600px) {
+  .timer {
+    width: 90vw;
+  }
+
+  .timer-options div:first-child {
+    width: 110%;
+  }
+
+  .task-panel {
+    width: 90vw;
+  }
+
+  .task-panel div {
+    width: 20%;
+  }
+
+  .task-panel div img {
+    margin: 0;
+  }
+
+  .task-panel div:last-child {
+    width: 80%;
+  }
+
+  .task-panel div h3 {
+    display: none;
+  }
+
+  .task-form {
+    width: 90vw;
+  }
+
+  .task {
+    width: 90vw;
+  }
+
+  .stopwatch h1 {
+    font-size: 8rem;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-size: 15px;
+  }
+}
